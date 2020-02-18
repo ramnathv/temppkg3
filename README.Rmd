@@ -54,7 +54,7 @@ You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-da
 
 You can also embed plots, for example:
 
-```{r pressure, echo = FALSE}
+```{r pressure-1, echo = FALSE}
 plot(pressure)
 ```
 
